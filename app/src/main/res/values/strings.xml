@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Val Balok</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmation_password">Confirmation Password</string>
+    <string name="register">Register</string>
+    <string name="bilology_test">Bilology Test</string>
+    <string name="free">Free</string>
+    <string name="monday_12th_april_2021">Monday, 12th April 2021</string>
+    <string name="arrow"><![CDATA[->]]></string>
+    <string name="minute">3 min</string>
+    <string name="questions">25 Questions</string>
+    <string name="_15_people">15 People</string>
+    <string name="enrolled">245 Enrolled</string>
+</resources>
